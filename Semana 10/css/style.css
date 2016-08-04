@@ -1,6 +1,6 @@
-.Images{ text-align: left; outline-style: double;}
+.Images{ text-align: left; outline-style: inset;}
 body {
-	background-color: brown
+	background-image: url(images/fig.jpg);
 }
 .menu
 nav ul li a{
