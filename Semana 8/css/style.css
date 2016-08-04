@@ -1,0 +1,16 @@
+.Images{ text-align: left; outline-style: double;}
+body {
+	background-color: brown
+}
+.menu
+nav ul li a{
+    color:black;
+    display:inline-block;
+    text-decoration:none;
+ background-color:aqua;
+    padding: 5px;
+    margin-left: 5px;
+}
+.video{border: 50px}
+.title {text-align: center;
+outline-style: inset;}
